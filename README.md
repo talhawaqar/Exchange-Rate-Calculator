@@ -1,4 +1,5 @@
 # Currency exchange rate calculator
+
 This web app is for calculating the exchange rate between different currencies. This app uses the exchange-rate API to display data.
 
 ## Built With
@@ -8,7 +9,8 @@ This web app is for calculating the exchange rate between different currencies. 
 - Javascript
 
 ## Screenshot
-Project Design Screenshot : ![Project Design](images/screenshot.png)
+
+Project Design Screenshot : ![Project Design](images/Screenshot.png)
 
 ## Live Demo
 
@@ -39,4 +41,3 @@ Contributions, issues and feature requests are welcome! Start by:
 ## 📝 License
 
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.
-
