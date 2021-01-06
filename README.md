@@ -14,7 +14,7 @@ Project Design Screenshot : ![Project Design](images/Screenshot.png)
 
 ## Live Demo
 
-[Live Demo Link](https://talhawaqar.github.io/)
+[Live Demo Link](https://talhawaqar.github.io/Exchange-Rate-Calculator/)
 
 ## Authors
 
